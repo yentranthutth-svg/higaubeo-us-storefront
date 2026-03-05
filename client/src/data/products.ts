@@ -26,7 +26,7 @@ export const categories: Category[] = [
     id: "smart-home",
     name: "Smart Home for Pet Parents",
     emoji: "🏠",
-    heroImage: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&h=500&fit=crop",
+    heroImage: "https://sf-static.upanhlaylink.com/img/image_20260305005d249452f5defb17fb9bbeec3847c9.jpg",
     products: [
       {
         id: "sh1",
